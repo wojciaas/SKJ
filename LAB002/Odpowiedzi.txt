@@ -1,0 +1,29 @@
+Task1
+	1. version 1.1 both
+	2. pl, en
+	3. myip: 10.21.10.5 serverip: 128.119.245.12
+	4. 200
+	5. 09 Oct 2023 05:59:01
+	6. 486 bytes
+	7. -
+
+Task2
+	8. Tak
+	9. Tak - wyswietla się rozmiar otrzymanego pliku
+	10. Nie If-Modified-Since: Mon, 09 Oct 2023 05:59:01 GMT
+	11. Nie wyswietla sie rozmiar otrzymanego pliku
+
+Task3
+	12. 1
+	13. 4
+	14. Code: 200 Phrase: OK
+	15. nie
+
+Task4
+	16. 3 requests to 2 to 128.119.245.12, 1 to 178.79.137.164
+	17. równolegle najpierw 2 get potem 2 odpowiedzi
+
+Taks5
+	18. 401 Unauthorized
+	19. Authorization
+

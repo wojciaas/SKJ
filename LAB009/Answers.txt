@@ -1,0 +1,23 @@
+Ex.2
+echo request and echo reply
+
+Ex.3
+Type: 8 (Echo (ping) request)
+Code: 0
+Checksum: 0xe45a
+Sequence Number (BE): 26369 (0x6701)
+Sequence Number (LE): 359 (0x0167)
+Identifier (BE): 512 (0x0200)
+Identifier (LE): 2 (0x0002)
+
+Ex.4
+Type: 0 (Echo (ping) reply)
+Code: 0
+Checksum: 0xec5a [correct]
+Identifier (BE): 512 (0x0200)
+Identifier (LE): 2 (0x0002)
+Sequence Number (BE): 26369 (0x6701)
+Sequence Number (LE): 359 (0x0167)
+
+Ex.6
+Tak

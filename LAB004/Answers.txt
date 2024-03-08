@@ -1,0 +1,42 @@
+Ex.4 
+UDP
+
+Ex.5 
+	-query dest:  53
+	-response source: 53
+
+Ex.6
+10.1.1.30 yes
+
+Ex.7
+Type A, HTTPS
+
+Ex.8
+2
+
+Ex. 9
+104.16.44.99
+
+Ex. 10
+nah
+
+Ex. 11
+	-dest query: 53
+	-source response: 53
+
+Ex. 12
+10.1.1.30 yes
+
+Ex. 13
+Type A, AAAA, PTR
+
+Ex. 14
+0, 1, 3
+
+Ex. 16
+10.1.1.30 yes
+
+Ex. 17
+PTR, NS, A
+
+Ex.18
